@@ -1,0 +1,10 @@
+body {
+    background-color: skyblue;
+    font-family: sans-serif;
+    font-size: 200%;
+    text-align: center; 
+}
+
+div.teste {
+    border: 5px dotted black;
+}
